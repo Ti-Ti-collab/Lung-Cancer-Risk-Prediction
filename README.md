@@ -43,6 +43,6 @@ This project is divided into the following components:
 
 ## 👩🏽‍💻 Author
 
+## Author
 **Titilayo Afolabi**  
-[LinkedIn](https://linkedin.com/in/-titilayo-afolabi) | [GitHub Portfolio](https://github.com/Ti-Ti-collab)
-
+[LinkedIn](https://www.linkedin.com/in/titilayo-afolabi) | [Portfolio](https://github.com/Ti-Ti-collab)
